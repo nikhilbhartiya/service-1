@@ -1,0 +1,5 @@
+com\webfuse\model\Employee.class
+com\webfuse\service\RabbitMQSender.class
+com\webfuse\SpringBootHelloWorldApplication.class
+com\webfuse\config\RabbitMQConfig.class
+com\webfuse\controller\RabbitMQWebController.class
